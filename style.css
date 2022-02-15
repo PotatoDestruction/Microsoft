@@ -1,0 +1,53 @@
+.micro {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 100px;
+}
+.potato {
+    list-style-type: none;
+    padding-left: 40%;
+    margin-top: 30px;
+    font-size: x-large;
+    overflow: hidden;
+    background-color: green;
+    margin-bottom: 0px;
+   
+}
+li {
+    float: left;
+    margin-left: auto;
+    margin-right: 5%;
+    width: auto;
+    height: auto;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+   
+  }
+  .miskas {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+  }
+  h1 {
+      background-color: green;
+      padding: 5px;
+      margin: 20px;
+  }
+  .nub {
+      background-color: chartreuse;
+      padding-top: 10px;
+      padding-bottom: 10px;
+  }
+.main {
+    background: grey;
+    padding-bottom: 4px;
+    padding-top: 20px;
+}
